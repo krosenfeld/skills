@@ -13,3 +13,7 @@ All skills live in the [`skills`](skills) folder:
 * [`/summarize`](skills/summarize) - Convert files/URLs to Markdown via `uvx markitdown` and summarize.
 * [`/update-changelog`](skills/update-changelog) - Update changelogs with notable user-facing changes.
 * [`/uv`](skills/uv) - Use `uv` for Python dependency management and script execution.
+
+## References
+
+* Skills derived from [agent-skills](https://github.com/mitsuhiko/agent-stuff)
